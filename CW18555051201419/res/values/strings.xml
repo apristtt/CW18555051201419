@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CW18555051201419</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="wait">โปรดรอ</string>
+    <string name="starbung">สตาร์บังค์</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <string name="strCoffeeName">name</string>
+    <string name="strCoffeePrice">price</string>
+    <string name="baht">Baht</string>
+    <string name="title_activity_item1">Item1Activity</string>
+    <string name="strProductList">รายการสินค้า : </string>
+    <string name="strProductName">ชื่อสินค้า : </string>
+    <string name="strName">name</string>
+    <string name="strPricePerUnit">ราคาต่อหน่วย</string>
+    <string name="strPrice">Price</string>
+    <string name="strProductAmount">จำนวน</string>
+    <string name="strUnit">หน่วย</string>
+    <string name="strTotal">รวมเงิน</string>
+    <string name="strOrder">Order</string>
+
+</resources>
